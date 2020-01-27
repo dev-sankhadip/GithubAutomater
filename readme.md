@@ -26,7 +26,7 @@ pip3 install -u click
  ### Linux user
 
  * Open terminal and go to project folder
- * Type <b>cli.py</b> push in terminal
- * Type your commit message
+ * Type <b><i>cli.py push</i></b> in terminal
+ * Type your commit message like <b color="red">feat: login added</b>
  * If your project already have git repo then just enter username and password
- * If it is new repo then enter newly git repo origin url then username and password
+ * If it is new repo then enter newly git repo remote origin url then username and password
