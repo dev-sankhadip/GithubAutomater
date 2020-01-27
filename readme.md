@@ -29,4 +29,4 @@ pip3 install -u click
  * Type cli.py push in terminal
  * Type your commit message
  * If your project already have git repo then just enter username and password
- * If it is new repo then enter your origin url then username and password
+ * If it is new repo then enter newly git repo origin url then username and password
